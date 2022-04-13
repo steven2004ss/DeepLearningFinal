@@ -1,0 +1,3 @@
+websocket-client
+numpy
+google-auth-oauthlib
